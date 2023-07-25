@@ -63,6 +63,7 @@ Features that will be added in the future:
      - Allow user to add a project name and project photos under each project.
      - Allow users to keep notes under each project
      - Allow users to track time spend on each project.
+     - Allow users to reset/clear entire form.
 
 
 [Table of Contents](#Table-of-Contents)
