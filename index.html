@@ -1,0 +1,37 @@
+<html>
+    <head><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+        <link rel="stylesheet" href="./src/index.css">
+        <link rel="icon" type="image/x-icon" href="./src/assets/favicon.ico">
+    </head>
+    <body>
+        <div id="counter-container">
+            <h1 class="title">Stitch Counter</h1>
+            <h2 class="current-count" id="count-el">0</h2>
+            <div id="btn-container" class="btn-entry-containers">
+                <div id="count-btn-container"> 
+                    <button id="increment-btn" class="count-btns plus" onclick="increment()">+</button>
+                    <button id="decrement-btn" class="count-btns minus" onclick="decrement()">-</button>
+                </div>
+                <div id="save-btn-container">   
+                    <button id="save-btn" onclick="save(), saveTotal()">SAVE COUNT</button>    
+                </div>
+            </div>
+            <div id="entry-container" class="btn-entry-containers">
+                <div id="entry-log">
+                    <p id="entry-highlight" class="highlight">Previous Entries: </p>
+                    <div class="save-el-containter">
+                        <p id="save-el" class="count-total"></p>
+                    </div>
+                </div>
+                <div id="entry-log-total">
+                    <p id="entry-highlight-total" class="highlight">Total Count: </p>
+                    <div class="save-el-containter">
+                        <p id="save-el-total" class="total">0</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script src="./src/index.js">
+        </script>
+    </body>
+</html>
