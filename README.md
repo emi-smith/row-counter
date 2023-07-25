@@ -49,7 +49,7 @@ A simple row counter app to keep track of rows when knitting or crocheting. The 
 [Table of Contents](#Table-of-Contents)
 
 ## What-I-enjoyed
-     This was a fun and quick project to build, I would like to build on this project in the future as I learn more advanced JavaScript skills.
+This was a fun and quick project to build, I would like to build on this project in the future as I learn more advanced JavaScript skills.
 
 [Table of Contents](#Table-of-Contents)
 
