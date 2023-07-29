@@ -10,7 +10,7 @@
    - [What I enjoyed](#What-I-enjoyed)
    - [Issues and future changes](#Issues-and-future-changes)
    - [Referenced Materials](#Referenced-Materials)
-        - [Counter App](#Sticky-Note-App)
+        - [Counter App](#Scrimba)
    - [License](#MIT-License)
    
 
